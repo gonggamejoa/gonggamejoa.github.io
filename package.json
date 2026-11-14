@@ -1,0 +1,25 @@
+{
+  "name": "gongkem-joadan",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "공겜조아단 - 선바가 플레이한 공포게임 아카이브 (정적 사이트)",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist",
+    "shots": "node scripts/screenshots.mjs",
+    "collect": "node scripts/collect.mjs",
+    "collect:rss": "node scripts/collect.mjs --source rss",
+    "collect:dry": "node scripts/collect.mjs --dry",
+    "collect:full": "node scripts/collect.mjs --source ytdlp",
+    "retag": "node scripts/collect.mjs --retag"
+  },
+  "dependencies": {
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

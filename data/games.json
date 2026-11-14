@@ -1,0 +1,414 @@
+[
+  {
+    "id": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "steamAppId": 2124490,
+    "uploadedAt": "2024-10-01",
+    "tags": [
+      "심리",
+      "3인칭",
+      "생존공포",
+      "이상현상",
+      "크리처"
+    ],
+    "sample": true,
+    "series": true,
+    "videoUrl": null,
+    "episodes": [
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      }
+    ],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": true,
+    "recommendedOrder": 3,
+    "ownerComment": null
+  },
+  {
+    "id": "lethal-company",
+    "title": "Lethal Company",
+    "steamAppId": 1966720,
+    "uploadedAt": "2023-10-01",
+    "tags": [
+      "협동",
+      "인디게임",
+      "1인칭",
+      "서바이벌",
+      "크리처"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": true,
+    "recommendedOrder": 5,
+    "ownerComment": null
+  },
+  {
+    "id": "amnesia-the-bunker",
+    "title": "Amnesia: The Bunker",
+    "steamAppId": 1944430,
+    "uploadedAt": "2023-06-01",
+    "tags": [
+      "1인칭",
+      "생존공포",
+      "심리",
+      "서바이벌",
+      "크리처"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": true,
+    "recommendedOrder": 1,
+    "ownerComment": null
+  },
+  {
+    "id": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "steamAppId": 2050650,
+    "uploadedAt": "2023-03-01",
+    "tags": [
+      "생존공포",
+      "3인칭",
+      "고어",
+      "크리처"
+    ],
+    "sample": true,
+    "series": true,
+    "videoUrl": null,
+    "episodes": [
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      }
+    ],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": false,
+    "recommendedOrder": null,
+    "ownerComment": null
+  },
+  {
+    "id": "dead-space",
+    "title": "Dead Space",
+    "steamAppId": 1693980,
+    "uploadedAt": "2023-01-01",
+    "tags": [
+      "생존공포",
+      "3인칭",
+      "고어",
+      "크리처"
+    ],
+    "sample": true,
+    "series": true,
+    "videoUrl": null,
+    "episodes": [
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "title": null,
+        "url": "https://www.youtube.com/"
+      }
+    ],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": false,
+    "recommendedOrder": null,
+    "ownerComment": null
+  },
+  {
+    "id": "visage",
+    "title": "Visage",
+    "steamAppId": 594330,
+    "uploadedAt": "2020-10-01",
+    "tags": [
+      "심리",
+      "1인칭",
+      "인디게임",
+      "오컬트",
+      "이상현상"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": true,
+    "recommendedOrder": 6,
+    "ownerComment": null
+  },
+  {
+    "id": "phasmophobia",
+    "title": "Phasmophobia",
+    "steamAppId": 739630,
+    "uploadedAt": "2020-09-01",
+    "tags": [
+      "협동",
+      "1인칭",
+      "인디게임",
+      "이상현상",
+      "오컬트"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": true,
+    "recommendedOrder": 2,
+    "ownerComment": null
+  },
+  {
+    "id": "little-nightmares",
+    "title": "Little Nightmares",
+    "steamAppId": 424840,
+    "uploadedAt": "2017-04-01",
+    "tags": [
+      "퍼즐",
+      "인디게임",
+      "심리"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": false,
+    "recommendedOrder": null,
+    "ownerComment": null
+  },
+  {
+    "id": "alien-isolation",
+    "title": "Alien: Isolation",
+    "steamAppId": 214490,
+    "uploadedAt": "2014-10-01",
+    "tags": [
+      "1인칭",
+      "생존공포",
+      "크리처",
+      "서바이벌"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": false,
+    "recommendedOrder": null,
+    "ownerComment": null
+  },
+  {
+    "id": "five-nights-at-freddys",
+    "title": "Five Nights at Freddy's",
+    "steamAppId": 319510,
+    "uploadedAt": "2014-08-01",
+    "tags": [
+      "인디게임",
+      "생존공포"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": false,
+    "recommendedOrder": null,
+    "ownerComment": null
+  },
+  {
+    "id": "outlast",
+    "title": "Outlast",
+    "steamAppId": 238320,
+    "uploadedAt": "2013-09-01",
+    "tags": [
+      "1인칭",
+      "생존공포",
+      "고어"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": true,
+    "recommendedOrder": 4,
+    "ownerComment": null
+  },
+  {
+    "id": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "steamAppId": 550,
+    "uploadedAt": "2009-11-01",
+    "tags": [
+      "좀비",
+      "협동",
+      "1인칭",
+      "고어"
+    ],
+    "sample": true,
+    "series": false,
+    "videoUrl": null,
+    "episodes": [],
+    "description": null,
+    "developer": null,
+    "price": null,
+    "korean": null,
+    "screenshots": [],
+    "recommended": false,
+    "recommendedOrder": null,
+    "ownerComment": null
+  }
+]
